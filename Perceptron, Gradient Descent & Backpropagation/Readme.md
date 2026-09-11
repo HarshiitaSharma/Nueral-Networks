@@ -50,13 +50,13 @@ Backpropagation is how PyTorch's `autograd` engine computes the gradient of the 
 10. Explain, in your own words, the effect of the Sigmoid activation on the output.
 
 # Question
-1 What is a perceptron?
-2 Why can't a single perceptron solve the XOR problem?
-3 What is a loss function, and why is it needed?
-4 What is gradient descent?
-5 What does loss.backward() actually do?
-6 Why must optimizer.zero_grad() be called every epoch?
-7 What is the difference between SGD and Adam?
-8 What is an epoch?
-9 What is backpropagation, and how does it relate to the chain rule?
-10 Why is Sigmoid commonly used in binary classification?
+1. What is a perceptron?
+2. Why can't a single perceptron solve the XOR problem?
+3. What is a loss function, and why is it needed?
+4. What is gradient descent?
+5. What does loss.backward() actually do?
+6. Why must optimizer.zero_grad() be called every epoch?
+7. What is the difference between SGD and Adam?
+8. What is an epoch?
+9. What is backpropagation, and how does it relate to the chain rule?
+10. Why is Sigmoid commonly used in binary classification?
