@@ -10,7 +10,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 
 | Folder | Topic | Description |
 |---|---|---|
-| [`artificial-neuron/`](./BuildingArtifical_Nueron) | Single Artificial Neuron | Tensors, manual neuron math (`z = w·x + b`), activation functions, autograd, and `nn.Linear` comparison |
+| [`artificial-neuron/`](./BuildingArtificial_Neuron) | Single Artificial Neuron | Tensors, manual neuron math (`z = w·x + b`), activation functions, autograd, and `nn.Linear` comparison |
 
 ## Structure
 
