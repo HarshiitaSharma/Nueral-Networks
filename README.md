@@ -12,6 +12,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |---|---|---|
 | [`artificial-neuron/`](./BuildingArtificial_Neuron) | Single Artificial Neuron | Tensors, manual neuron math (`z = w·x + b`), activation functions, autograd, and `nn.Linear` comparison |
 |[Perceptron, Gradient Descent Backpropagation in PyTorch](./Perceptron,%20Gradient%20Descent%20%26%20Backpropagation/Readme.md) | Perceptron| Gradient Descent| Backpropagation |Logic Gate|
+|[Mini project (Perceptron)]() |Binary Pattern Classifier|Streamlit interface| Logic gates| Predicted class|raw sigmoid probability|
 
 ## Structure
 
@@ -21,9 +22,15 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 ├── artificial-neuron/
 │   ├── README.md
 │   └── artificial_neuron_pytorch.ipynb
-└── Perceptron, Gradient Descent Backpropagation in PyTorch
-    ├── README.md
+|── Perceptron, Gradient Descent Backpropagation in PyTorch
+|   ├── README.md
 │   └── Perceptron_gradient_backpropagation.ipynb
+|
+|── Mini project (Perceptron)
+|   ├── README.md
+│   ├── perceptron_or_gate_model.ipynb
+|   ├── app.py
+│   └── train_model.py
 
 ```
 
