@@ -22,6 +22,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 ├── artificial-neuron/
 │   ├── README.md
 │   └── artificial_neuron_pytorch.ipynb
+|
 |── Perceptron, Gradient Descent Backpropagation in PyTorch
 |   ├── README.md
 │   └── Perceptron_gradient_backpropagation.ipynb
@@ -31,6 +32,9 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 │   ├── perceptron_or_gate_model.ipynb
 |   ├── app.py
 │   └── train_model.py
+|── Backpropagation in PyTorch
+|   ├── README.md
+│   └── Backpropagation.ipynb
 
 ```
 
