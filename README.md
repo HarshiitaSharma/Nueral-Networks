@@ -14,6 +14,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |[Perceptron, Gradient Descent Backpropagation in PyTorch](./Perceptron,%20Gradient%20Descent%20%26%20Backpropagation/Readme.md) | Perceptron| Gradient Descent| Backpropagation |Logic Gate|
 |[Mini project (Perceptron)](./Mini%20project%20(Perceptron)/Readme.md) |Binary Pattern Classifier|Streamlit interface| Logic gates| Predicted class|raw sigmoid probability|
 |[Backpropagation](./Backpropagation/Readme.md) |forward propagation|XOR Network| Logic gates| Loss Functions|raw sigmoid probability|MSELoss|BCELoss|CrossEntropyLoss|
+|[Backpropagation-Project](./Backpropagation/Readme.md) |forward propagation|XOR Network| Logic gates| Loss Functions|raw sigmoid probability|MSELoss|BCELoss|CrossEntropyLoss|
 
 ## Structure
 
@@ -34,6 +35,9 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |   ├── app.py
 │   └── train_model.py
 |── Backpropagation in PyTorch
+|   ├── README.md
+│   └── Backpropagation.ipynb
+|── Mini Project (Backpropagation)
 |   ├── README.md
 │   └── Backpropagation.ipynb
 
