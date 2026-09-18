@@ -7,14 +7,14 @@ that are linearly separable.
 Training these on Logic gates.
 
 ## Learning Objectives
-• Explain the perceptron as a single-layer linear binary classifier.
-• Implement a perceptron model in PyTorch using nn.Linear and nn.Sigmoid.
-• Explain the role of a loss function in measuring prediction error.
-• Use PyTorch's autograd engine to compute gradients automatically.
-• Explain gradient descent as an iterative weight-update procedure.
-• Implement a complete training loop combining forward pass, loss computation, backpropagation and
+- Explain the perceptron as a single-layer linear binary classifier.
+- Implement a perceptron model in PyTorch using nn.Linear and nn.Sigmoid.
+- Explain the role of a loss function in measuring prediction error.
+- Use PyTorch's autograd engine to compute gradients automatically.
+- Explain gradient descent as an iterative weight-update procedure.
+- Implement a complete training loop combining forward pass, loss computation, backpropagation and
 parameter updates.
-• Interpret learned weights, biases and gradients.
+- Interpret learned weights, biases and gradients.
 
 ## Running it
 
