@@ -12,13 +12,13 @@ A from-scratch walkthrough of how a single artificial neuron works, built and ve
 - **`nn.Linear`** — building the same neuron with PyTorch's built-in layer and comparing outputs to the manual version
 
 ## Learning Objectives
-• Understand the role of PyTorch in deep learning.
-• Create and manipulate tensors.
-• Perform tensor operations.
-• Implement an artificial neuron from its mathematical equation.
-• Apply activation functions using PyTorch.
-• Understand automatic differentiation (Autograd).
-• Create neurons using nn.Linear.
+- Understand the role of PyTorch in deep learning.
+- Create and manipulate tensors.
+- Perform tensor operations.
+- Implement an artificial neuron from its mathematical equation.
+- Apply activation functions using PyTorch.
+- Understand automatic differentiation (Autograd).
+- Create neurons using nn.Linear.
 
 ## Running it
 
