@@ -98,7 +98,29 @@ The notebook produces:
 - NumPy
 
 ---
+## Tasks
+1. Run the complete undercomplete autoencoder using latent_dim = 32.
+2. Submit the training-loss graph.
+3. Submit a figure showing at least 8 original and reconstructed images.
+4. Repeat the experiment with latent_dim = 2 and 128.
+5. Create a small table containing latent dimension, final reconstruction loss, and your visual observation.
+6. Answer the viva questions in Section 10.
+7. Optional: implement the denoising extension and show noisy input, reconstructed output, and clean target.
 
+## Viva / Conceptual Questions
+1. Why can an autoencoder be trained without class labels?
+2. What is the purpose of the bottleneck layer?
+3. Why is this model called an undercomplete autoencoder?
+4. What would happen if the latent dimension were 784 or larger without any regularization?
+5. Why is the output layer using Sigmoid in this experiment?
+6. Why is MSE suitable for the reconstruction loss used here?
+7. During backpropagation, which parameters are updated?
+8. Why do we compare the reconstructed image with the original image rather than with the digit label?
+9. What happens to reconstruction quality when the latent dimension is made very small?
+10. How is a denoising autoencoder different from a standard autoencoder?
+11. How can reconstruction error be used for anomaly detection?
+12. How is an autoencoder different from PCA?
+13. Why can a nonlinear autoencoder represent structures that PCA cannot?
 ## Key Takeaway
 
 A larger latent dimension (bottleneck) gives an autoencoder more room to preserve detail, so reconstruction loss drops as latent size grows — but at the cost of a less compressed representation. The VAE trades some reconstruction sharpness for a smooth, structured latent space, which is what makes it possible to sample entirely new, coherent digit images rather than only reconstructing ones it has seen.
