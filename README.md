@@ -16,6 +16,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |[Backpropagation](./Backpropagation/Readme.md) |forward propagation|XOR Network| Logic gates| Loss Functions|raw sigmoid probability|MSELoss|BCELoss|CrossEntropyLoss|
 | [Backpropagation Project](./Miniproject-Backpropagation/Readme.md) | Backpropagation | Forward propagation and an XOR network trained on logic gates, comparing MSE, BCE, and Cross-Entropy loss functions, with raw sigmoid probability outputs |
 |[Regularization Methods](./Regularization%20Methods/Readme.md) | Overfitting | L1 and L2 | Dropout | DropConnect | Batch Normalization |Overfitting| 
+| [Autoencoder](./autoencoders/Readme.md) | Autoencoders | Standard, denoising, and variational autoencoders (VAE) on MNIST — reconstruction, denoising, bottleneck-size effects, and generating new digits |
 
 ## Structure
 
