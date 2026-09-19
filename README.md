@@ -46,6 +46,9 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |── Regularization Methods
 |   ├── README.md
 │   └── Regularization.ipynb
+|── Autoencoder
+|   ├── README.md
+│   └── Autoencoder.ipynb
 
 ```
 
