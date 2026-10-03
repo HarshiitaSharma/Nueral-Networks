@@ -17,6 +17,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 | [Backpropagation Project](./Miniproject-Backpropagation/Readme.md) | Backpropagation | Forward propagation and an XOR network trained on logic gates, comparing MSE, BCE, and Cross-Entropy loss functions, with raw sigmoid probability outputs |
 |[Regularization Methods](./Regularization%20Methods/Readme.md) | Overfitting | L1 and L2 | Dropout | DropConnect | Batch Normalization |Overfitting| 
 | [Autoencoder](./autoencoders/Readme.md) | Autoencoders | Standard, denoising, and variational autoencoders (VAE) on MNIST — reconstruction, denoising, bottleneck-size effects, and generating new digits |
+| [Second-Order Optimization Methods](./Second%20order%20optimization/readme.md) | Gradient, Hessian and the Newton step |Newton versus gradient descent on a stretched valley|What the Hessian actually costs|Gauss–Newton and Levenberg–Marquardt|L-BFGS: quasi-Newton in one line|Hessian-free optimization|
 
 ## Structure
 
@@ -50,6 +51,9 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |── Autoencoder
 |   ├── README.md
 │   └── Autoencoder.ipynb
+|── Second-Order Optimization
+|   ├── README.md
+│   └── second_order.ipynb
 
 ```
 
