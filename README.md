@@ -18,6 +18,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |[Regularization Methods](./Regularization%20Methods/Readme.md) | Overfitting | L1 and L2 | Dropout | DropConnect | Batch Normalization |Overfitting| 
 | [Autoencoder](./autoencoders/Readme.md) | Autoencoders | Standard, denoising, and variational autoencoders (VAE) on MNIST — reconstruction, denoising, bottleneck-size effects, and generating new digits |
 | [Second-Order Optimization Methods](./Second%20order%20optimization/readme.md) | Gradient, Hessian and the Newton step |Newton versus gradient descent on a stretched valley|What the Hessian actually costs|Gauss–Newton and Levenberg–Marquardt|L-BFGS: quasi-Newton in one line|Hessian-free optimization|
+| [Convolutional Neural Networks](./Convolutional%20Neural%20Networks/Readme.md) |Convolution by Hand and by PyTorch|Stride| Padding |Output-Size Formula| ReLU and Its Gradient|Max and Average Pooling|How Gradient Flows Back Through Pooling|Backpropagation Through a Convolution Layer|Parameters, Receptive Field and Cost|Loading CIFAR-10|Building the CNN|Inside the Trained Network|
 
 ## Structure
 
@@ -54,6 +55,10 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |── Second-Order Optimization
 |   ├── README.md
 │   └── second_order.ipynb
+|
+|── Convolutional Neural Networks
+|   ├── README.md
+│   └── CNN.ipynb
 
 ```
 
