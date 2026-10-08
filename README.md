@@ -21,6 +21,7 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 | [Convolutional Neural Networks](./Convolutional%20Neural%20Networks/Readme.md) |Convolution by Hand and by PyTorch|Stride| Padding |Output-Size Formula| ReLU and Its Gradient|Max and Average Pooling|How Gradient Flows Back Through Pooling|Backpropagation Through a Convolution Layer|Parameters, Receptive Field and Cost|Loading CIFAR-10|Building the CNN|Inside the Trained Network|
 | [Deep CNN Architectures](./Deep%20CNN%20Architectures/Readme.md) |CIFAR-10| Lenet-5|Alexnet|VGG-16|PlacesNet: 365-way head, softmax| receptive field|ResNet-18: skip connections, gradient flow|
 | [Deep CNN Architectures - Caltech-101](./Deep%20CNN%20Architectures%20-%20Caltech-101/Readme.md) | Caltech-101 | LeNet-5, AlexNet-lite, VGG-16-lite, PlacesNet-lite, ResNet-18-lite, interactive prediction dashboard |
+| [Hyperparameter Optimization](./Training%20a%20CNN/readme.md) |Parameters and Hyperparameters|Learning-Rate Stability Window|Learning-Rate Schedules|Batch Size|Grid Search and Random Search|Expected Improvement|Successive Halving|A Real Search on CIFAR-10|
 
 ## Structure
 
@@ -76,6 +77,10 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 │   ├── comparison.png
 │   ├── dashboard_interface.png
 │   └── report.pdf
+|
+|── Training a CNN
+|   ├── README.md
+│   └── train_cnn.ipynb
 
 ```
 
