@@ -23,6 +23,8 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 | [Deep CNN Architectures - Caltech-101](./Deep%20CNN%20Architectures%20-%20Caltech-101/Readme.md) | Caltech-101 | LeNet-5, AlexNet-lite, VGG-16-lite, PlacesNet-lite, ResNet-18-lite, interactive prediction dashboard |
 | [Hyperparameter Optimization](./Training%20a%20CNN/readme.md) |Parameters and Hyperparameters|Learning-Rate Stability Window|Learning-Rate Schedules|Batch Size|Grid Search and Random Search|Expected Improvement|Successive Halving|A Real Search on CIFAR-10|
 | [Initialization and Visualization](./Weight%20Initialization%20and%20Visualization%20in%20CNN/Readme.md) |Fan-in and Fan-out|LeCun, Xavier and He from Scratch|Built-in torch.nn.init|Initializers in a Deep CNN|Does Initialization Matter for Training|First-Layer Filters|Feature Maps|Saliency, Integrated Gradients and Guided Backprop|Grad-CAM and Guided Grad-CAM|Occlusion and Cost of Each Method|
+| [Deep Learning in Vision](./Deep%20Learning%20in%20Vision/Readme.md) |IoU and Dice|Classification with ResNet and ViT|Fine-Tuning Frozen vs Full|Object Detection with YOLO|NMS and Confidence Thresholds|mAP and Detector Fine-Tuning|Segmentation with a U-Net|Pixel Accuracy vs Dice and IoU|
+
 ## Structure
 
 ```
@@ -85,6 +87,10 @@ Build intuition for the math and mechanics behind deep learning by implementing 
 |── Training and Understanding CNNs: Weight Initialization and Visualization
 |   ├── README.md
 │   └── main.ipynb
+|
+|── Applications of Deep Learning in Vision
+|   ├── README.md
+│   └── deeplearning.ipynb
 
 ```
 
